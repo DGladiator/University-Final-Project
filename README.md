@@ -1,0 +1,2 @@
+# UniversityCourse-ResultManagementSyatem
+DotNet project
